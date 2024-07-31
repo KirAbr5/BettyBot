@@ -1,6 +1,9 @@
 # BettyBot_
 ТГ бот Бетти, с ИИ (Создан на марафоне от JavaRush)
 (Файлы gpt.py и util.py написаны тимлидом)
+(в разработке используется python-telegram-bot)
++ # pip install python-telegram-bot
++ # pip install openai
 
 Привет! Этот бот совмещает с себе удобство *Telegram*, мощь *ChatGPT* и фан *Tinder*'а.
 
