@@ -1,4 +1,4 @@
-# BettyBot_
+# BettyBot_DateTGBot
 ТГ бот Бетти, с ИИ (Создан на марафоне от JavaRush)
 (Файлы gpt.py и util.py написаны тимлидом)
 (в разработке используется python-telegram-bot)
